@@ -26,7 +26,7 @@ func NewMahasiswa() []Mahasiswa {
 		Mahasiswa{
 			ID:   2,
 			NIM:  923454,
-			Name: "Joni Gunawan",
+			Name: "Pricil",
 		},
 		Mahasiswa{
 			ID:   3,
