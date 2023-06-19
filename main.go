@@ -31,7 +31,7 @@ func NewMahasiswa() []Mahasiswa {
 		Mahasiswa{
 			ID:   3,
 			NIM:  923454,
-			Name: "Muhammad Irwan",
+			Name: "Muhammad Iwan",
 		},
 	}
 	return mhs
